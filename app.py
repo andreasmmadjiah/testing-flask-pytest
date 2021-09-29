@@ -56,7 +56,7 @@ def predict():
    return render_template_string("""
    <html>
       <head>
-         <title>Prediction Results!</title>
+         <title>Prediction Result!</title>
       </head>
       <body>
          <h3>Prediction:</h3>
